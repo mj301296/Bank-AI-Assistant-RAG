@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==2.2.2
+faiss-cpu==1.7.4
+torch==2.2.2
+transformers==4.44.0
+sentence-transformers==2.7.0
+langchain==0.2.1
+pypdf==4.2.0
+jupyter==1.0.0
+notebook==7.1.2
+ipykernel==6.29.4
+ipywidgets==8.1.2
+traitlets==5.14.3
+chromadb
