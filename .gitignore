@@ -8,6 +8,8 @@ __pycache__/
 *.sqlite3
 *.db
 *.log
+*.pkl
+*.pdf
 
 # VS Code
 .vscode/
@@ -31,3 +33,8 @@ nosetests.xml
 coverage.xml
 *.cover
 *.pyc
+
+
+# #Datasets
+# dataset/*
+# dev/data/*
