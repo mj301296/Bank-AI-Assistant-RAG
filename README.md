@@ -307,13 +307,6 @@ cd prod
 - **Monitoring**: $10-50/month
 - **Total**: $60-250/month
 
-## 🔄 Maintenance
-
-### Regular Tasks
-- **Model Updates**: Monthly model version updates
-- **Security Patches**: Weekly security updates
-- **Performance Monitoring**: Daily performance reviews
-- **Cost Optimization**: Monthly cost analysis
 
 ### Scaling
 - **Horizontal Scaling**: Multiple API instances
@@ -321,20 +314,6 @@ cd prod
 - **Caching**: Redis/Memcached integration
 - **CDN**: CloudFront distribution
 
-## 🤝 Contributing
-
-### Development Workflow
-1. Fork the repository
-2. Create a feature branch
-3. Make changes in `dev/` directory
-4. Test thoroughly
-5. Submit pull request
-
-### Code Standards
-- **Python**: PEP 8 style guide
-- **Documentation**: Comprehensive docstrings
-- **Testing**: Unit and integration tests
-- **Security**: Security best practices
 
 ## 📚 Documentation
 
@@ -350,19 +329,6 @@ cd prod
 - [Hugging Face Documentation](https://huggingface.co/docs)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
-## 🆘 Support
-
-### Getting Help
-- **Issues**: Create GitHub issues for bugs
-- **Discussions**: Use GitHub discussions for questions
-- **Documentation**: Check README files first
-- **Community**: Join our community forum
-
-### Troubleshooting
-- **Common Issues**: Check troubleshooting guides
-- **Debug Mode**: Enable debug logging
-- **Health Checks**: Use system health endpoints
-- **Logs**: Review application logs
 
 ## 📄 License
 
