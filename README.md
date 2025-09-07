@@ -376,8 +376,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Streamlit** for web interface
 - **FastAPI** for REST API framework
 
----
-
-**Built with ❤️ for the banking industry**
-
-*For questions or support, please open an issue or contact the development team.*

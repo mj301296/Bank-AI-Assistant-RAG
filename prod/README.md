@@ -105,7 +105,7 @@ uvicorn scripts.api_server:app --host 0.0.0.0 --port 8000
 {
   "aws": {
     "region": "us-east-1",
-    "knowledge_base_id": "NU5B3RRIOU"
+    "knowledge_base_id": "base_id"
   },
   "model": {
     "embedding_model": "amazon.titan-embed-text-v1",
@@ -307,33 +307,3 @@ curl -X POST "http://localhost:8000/batch-query" \
 - **Chunking**: Optimize chunk size
 - **Model Selection**: Use appropriate models
 - **Batch Processing**: Process multiple queries together
-
-## 🔄 Maintenance
-
-### Regular Tasks
-- **Monitor Costs**: Weekly cost review
-- **Update Models**: Monthly model updates
-- **Backup Data**: Daily data backups
-- **Security Updates**: Monthly security patches
-
-### Scaling
-- **Horizontal**: Multiple API instances
-- **Vertical**: Larger instance types
-- **Caching**: Redis/Memcached
-- **CDN**: CloudFront distribution
-
-## 📞 Support
-
-### Documentation
-- **AWS Bedrock**: [Official Documentation](https://docs.aws.amazon.com/bedrock/)
-- **FastAPI**: [Official Documentation](https://fastapi.tiangolo.com/)
-- **Streamlit**: [Official Documentation](https://docs.streamlit.io/)
-
-### Contact
-- **Issues**: Create GitHub issues
-- **Questions**: Check documentation first
-- **Emergency**: AWS Support (if applicable)
-
----
-
-**Note**: This is a production environment. Ensure proper security measures and monitoring are in place before deploying to production.
