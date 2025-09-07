@@ -1,0 +1,339 @@
+[
+  {
+    "question": "What are the Zelle transfer limits for new users?",
+    "question_id": 1,
+    "answer": "According to the search results, the Zelle transfer limits for new users are:\n\n- For consumer accounts, the daily limit is $500 for up to 10 transactions, the weekly limit is $10,000 for up to 30 transactions, and the monthly limit is $20,000 for up to 60 transactions.\n- For small business accounts, the daily limit is $2,000 for up to 20 transactions, the weekly limit is $45,000 for up to 30 transactions, and the monthly limit is $60,000 for up to 120 transactions.",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 468,
+              "start": 0
+            },
+            "text": "According to the search results, the Zelle transfer limits for new users are:\n\n- For consumer accounts, the daily limit is $500 for up to 10 transactions, the weekly limit is $10,000 for up to 30 transactions, and the monthly limit is $20,000 for up to 60 transactions.\n- For small business accounts, the daily limit is $2,000 for up to 20 transactions, the weekly limit is $45,000 for up to 30 transactions, and the monthly limit is $60,000 for up to 120 transactions."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "You may edit or cancel one-time future dated payments prior to payment processing until 11:59 PM ET the day before the payment is scheduled to occur. You may edit or cancel recurring payments until 11:59 PM ET the day before the next payment is scheduled to occur. After a payment has begun processing, you may cancel such payment only if the payment is pending due to the recipient not yet enrolling in the Service. You may edit or cancel Zelle payments by going to the \u201cPay & Transfer\u201d tab of the Bank of America website or mobile app and tapping on \u201cZelle \u201d and locating the Zelle \u201cActivity\u201d section.     K. Transfer Limits     There are limits and restrictions on Zelle transfers sent from your eligible Bank of America deposit accounts. Your ability to send money using the Service is subject to daily, weekly, and monthly limits on the dollar amount and frequency of Zelle transfers. Daily limits are measured on a rolling 24-hour basis, weekly limits are measured on a rolling 7-day basis, and monthly limits are measured on a rolling 30-day basis. Overall transfer limits will be lower for the first 60 days of your initial Zelle enrollment with your customer profile (User ID). We also limit the amount you can send to certain recipients on a daily basis. We limit your Zelle transfers even if your available balance(s) are collectively higher than the applicable limits. Limits are aggregate and apply across all of your combined Bank of America accounts enrolled with the Service. We will generally decline any transaction that would cause you to exceed any limit. However, we may allow transactions that exceed your limits in our sole discretion.     \u00ae \u00ae     \u00ae     \u00ae     \u00ae     \u00ae     \u00ae \u00ae     \u00ae     \u00ae     \u00ae \u00ae     \u00ae     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 12/29We may from time to time, for security reasons, modify the limits, including the frequency, and/or the dollar amount of money you can send using the Zelle Service. We may not disclose certain limits or changes to limits for security reasons. All sending limits are subject to temporary reductions to protect the security of your account, customer accounts, and/or the Zelle Service. Not all features of the Service will be available to you at all times. For example, you may be unable to schedule one-time future dated and recurring payments during the first sixty (60) days after your initial enrollment in the Service, or for certain recipients. The minimum transfer amount for any single Zelle transfer is $1.00. There are no receiving limits for Zelle transfers.     Zelle transfer limits depend on how long you\u2019ve been enrolled with Zelle .     Relationship Your Zelle Tenure Daily Limit Weekly Limit Monthly Limit     Consumer     New Zelle enrollment <= 15 days $500 / 10 Transactions     $10,000 / 30 transactions     $20,000 / 60 transactions     Zelle enrollment tenure 16-30 days $1,000 / 10 transactions     Zelle enrollment tenure 31-60 days $2,000 / 10 transactions     Zelle enrollment tenure > 60 days $3,500 / 10 transactions     Small Business     New Zelle enrollment <= 15 days $2,000 / 20 transactions     $45,000 / 30 transactions     $60,000 /120 transactions     Zelle enrollment tenure 16-30 days $4,000 / 20 transactions     Zelle enrollment tenure 31-60 days $8,000 / 20 transactions     Zelle enrollment tenure > 60 days $15,000 / 20 transactions          Additional Zelle transfer limits apply to recipients who have not enrolled with Zelle or have been recently added to your Zelle recipient list.     Relationship Who you\u2019re paying with Zelle Daily Limit     Consumer     Recipient who is not enrolled with Zelle $500     New recipient you add for the first 5 days $1,000     Small Business Recipient who is not enrolled with Zelle $2,000     \u00ae     \u00ae     \u00ae     \u00ae     \u00ae \u00ae     \u00ae     1     \u00ae     \u00ae     \u00ae     \u00ae     1,2     \u00ae     \u00ae     \u00ae     \u00ae     \u00ae \u00ae \u00ae     \u00ae 3     1     \u00ae     1 \u00ae     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 13/29New recipient you add for the first 5 days $4,000          / Private Bank and Merrill Lynch Wealth Management customers may be subject to higher dollar limits and total transfers. Please contact your advisor for more information on your limits.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 12.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3ADcbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "5720c126-dcf3-4d6e-902b-5dcc55923970",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:41.374392",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  },
+  {
+    "question": "How do I cancel a scheduled bill payment?",
+    "question_id": 2,
+    "answer": "To cancel a scheduled bill payment, you can follow the directions provided in the Bill Pay section of your online banking. The cancel feature is typically found in the payment activity section. You can also request to cancel a future scheduled or recurring bill payment by calling Bank of America at 800.432.1000 for consumer accounts or 866.758.5972 for small business accounts. Future-dated or recurring bill payments can be canceled prior to 5 p.m. ET on the third bank business day before the scheduled delivery date. Once a payment has begun processing, it cannot be canceled.",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 378,
+              "start": 0
+            },
+            "text": "To cancel a scheduled bill payment, you can follow the directions provided in the Bill Pay section of your online banking. The cancel feature is typically found in the payment activity section. You can also request to cancel a future scheduled or recurring bill payment by calling Bank of America at 800.432.1000 for consumer accounts or 866.758.5972 for small business accounts."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "Future scheduled and recurring payments to your Loan accounts from your account at another financial institution can be canceled prior to midnight ET on the calendar day prior to the date the payment is scheduled to be made. A one-time immediate payment cannot be canceled after it has been submitted.     The best way to cancel a future scheduled or recurring payment is to follow the instructions on our website. The cancel feature is found in the payment activity section of Transfers. You may also request to cancel a future scheduled or recurring payment by calling us at 800.432.1000 for consumer accounts and 866.758.5972 for small business accounts. If you are calling from outside of the continental U.S., call us collect at 925.681.7600.     3. Bill Payment Services     This section is not applicable to small business customers participating in the Payments and Invoicing Service described in Section 8.0 of the Business Services Addendum, which is a part of this Agreement. You may only be eligible to enroll in one service. Bank of America makes no representations or warranties as to whether a bill payment program that you are eligible to enroll in is appropriate for a particular business. You are solely responsible for determining whether a service that is made available to you is suitable for your business, considering various factors including, but not limited to, payment processing timeframes, timing for delivery of payments, fees, and limits included in the different plans.     A. Bill Pay for Checking, Money Market and Home Equity Line of Credit Accounts     Bank of America customers may use Bill Pay to make payments to companies or individuals (\u201cPayees\u201d) in the following manner:     Payments can be scheduled from linked checking, money market savings, and HELOC accounts during the draw period. Note that you may not link HELOC accounts opened in Texas.     Payments can be scheduled from a checking, money market savings or other consumer asset account maintained at another financial institution that you have added to Bill Pay. You certify that any account you add to Bill Pay is an account from which you are authorized to make payments, and any payment you make using Bill Pay will debit an account that you are legally authorized to use. When you add an account maintained at another financial institution, you do not change the agreements you have with that financial institution for that account. Please review those agreements for any applicable fees, limitations on the number of transactions you can make, and for other restrictions that might limit your use of the account with Bill Pay.     You may not be eligible to use the Bill Pay Service to make payments to Bank of America consumer credit card accounts. Eligibility for making such payments through the Bill Pay Service is based on a variety of factors. Alternatively, Bank of America consumer credit card customers may make payments to their Bank of America consumer credit card account from an internal funding account or an external funding account by using the payment and transfer services described in Sections 2.A and 2.C above.     Payments can be entered as a one-time transaction up to a year in advance, recurring transactions or as payments that are automatically scheduled upon the receipt of an electronic bill (e-Bill).     Future scheduled or recurring payments that fall on a weekend or holiday will be processed on the prior business day, except for payments to Bank of America credit cards, which will be processed on the date scheduled.     You authorize us to make payments in the manner we select from the following methods:     Electronic transmission. Most payments are made by electronic transmission.     Corporate check \u2013 This is a check drawn on our account or the account of our vendor. If a Payee on a corporate check fails to negotiate the check within ninety (90) days, we will stop payment on the check and re-credit your account for the amount of the payment. If a corporate check is returned to you prior to the end of the ninety (90) day period, please inform us immediately so that we can stop payment on the check and re-credit your account.     Personal check \u2013 This is a check drawn on your account when it is presented for payment.     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 6/29All payments under Bill Pay that are sent care of APO/FPO or similar addresses will be sent by corporate or personal check. Because all such payments will be made by check, they will not be Remittance Transfers (as defined in Section 6.F of this Agreement).     Any obligations that you wish to pay through Bill Pay must be payable in U.S. dollars to a Payee located in the United States. We reserve the right to restrict categories of Payees to whom payments may be made using the Service.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 6.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3ABMbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      },
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 580,
+              "start": 380
+            },
+            "text": "Future-dated or recurring bill payments can be canceled prior to 5 p.m. ET on the third bank business day before the scheduled delivery date. Once a payment has begun processing, it cannot be canceled."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "Future scheduled and recurring payments to your Loan accounts from your account at another financial institution can be canceled prior to midnight ET on the calendar day prior to the date the payment is scheduled to be made. A one-time immediate payment cannot be canceled after it has been submitted.     The best way to cancel a future scheduled or recurring payment is to follow the instructions on our website. The cancel feature is found in the payment activity section of Transfers. You may also request to cancel a future scheduled or recurring payment by calling us at 800.432.1000 for consumer accounts and 866.758.5972 for small business accounts. If you are calling from outside of the continental U.S., call us collect at 925.681.7600.     3. Bill Payment Services     This section is not applicable to small business customers participating in the Payments and Invoicing Service described in Section 8.0 of the Business Services Addendum, which is a part of this Agreement. You may only be eligible to enroll in one service. Bank of America makes no representations or warranties as to whether a bill payment program that you are eligible to enroll in is appropriate for a particular business. You are solely responsible for determining whether a service that is made available to you is suitable for your business, considering various factors including, but not limited to, payment processing timeframes, timing for delivery of payments, fees, and limits included in the different plans.     A. Bill Pay for Checking, Money Market and Home Equity Line of Credit Accounts     Bank of America customers may use Bill Pay to make payments to companies or individuals (\u201cPayees\u201d) in the following manner:     Payments can be scheduled from linked checking, money market savings, and HELOC accounts during the draw period. Note that you may not link HELOC accounts opened in Texas.     Payments can be scheduled from a checking, money market savings or other consumer asset account maintained at another financial institution that you have added to Bill Pay. You certify that any account you add to Bill Pay is an account from which you are authorized to make payments, and any payment you make using Bill Pay will debit an account that you are legally authorized to use. When you add an account maintained at another financial institution, you do not change the agreements you have with that financial institution for that account. Please review those agreements for any applicable fees, limitations on the number of transactions you can make, and for other restrictions that might limit your use of the account with Bill Pay.     You may not be eligible to use the Bill Pay Service to make payments to Bank of America consumer credit card accounts. Eligibility for making such payments through the Bill Pay Service is based on a variety of factors. Alternatively, Bank of America consumer credit card customers may make payments to their Bank of America consumer credit card account from an internal funding account or an external funding account by using the payment and transfer services described in Sections 2.A and 2.C above.     Payments can be entered as a one-time transaction up to a year in advance, recurring transactions or as payments that are automatically scheduled upon the receipt of an electronic bill (e-Bill).     Future scheduled or recurring payments that fall on a weekend or holiday will be processed on the prior business day, except for payments to Bank of America credit cards, which will be processed on the date scheduled.     You authorize us to make payments in the manner we select from the following methods:     Electronic transmission. Most payments are made by electronic transmission.     Corporate check \u2013 This is a check drawn on our account or the account of our vendor. If a Payee on a corporate check fails to negotiate the check within ninety (90) days, we will stop payment on the check and re-credit your account for the amount of the payment. If a corporate check is returned to you prior to the end of the ninety (90) day period, please inform us immediately so that we can stop payment on the check and re-credit your account.     Personal check \u2013 This is a check drawn on your account when it is presented for payment.     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 6/29All payments under Bill Pay that are sent care of APO/FPO or similar addresses will be sent by corporate or personal check. Because all such payments will be made by check, they will not be Remittance Transfers (as defined in Section 6.F of this Agreement).     Any obligations that you wish to pay through Bill Pay must be payable in U.S. dollars to a Payee located in the United States. We reserve the right to restrict categories of Payees to whom payments may be made using the Service.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 6.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3ABMbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "2475b6d3-a649-4f3f-a692-e570838c3ef8",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:44.443187",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  },
+  {
+    "question": "What is the cut-off time for domestic wire transfers?",
+    "question_id": 3,
+    "answer": "The cut-off time for Same Business Day (Domestic) Wire transfers is 5:00 PM Eastern Time.",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 88,
+              "start": 0
+            },
+            "text": "The cut-off time for Same Business Day (Domestic) Wire transfers is 5:00 PM Eastern Time."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "Liability for Unauthorized Transfers     For information regarding your liability for unauthorized transactions, see Section 8 of this Agreement.     6. ACH and Wire Transfers     Transfers sent outside of the United States that are initiated by consumers primarily for personal, family or household purposes (\"Remittance Transfers\"), are governed by federal law (see section 6.F below). This Agreement governs not only Remittance Transfers, but also certain other transfers between your linked accounts at Bank of America and your accounts at other financial institutions, or to someone else\u2019s account, using an account number and financial institution identifier.     For transfers other than Remittance Transfers, including general questions, requests for cancellation of payments and transfers, or to report unauthorized transactions, please call us at 800.432.1000 or 866.758.5972 for small business accounts, available Monday through Friday from 7:00 a.m. to 10:00 p.m., and Saturday and Sunday from 8:00 a.m. to 5:00 p.m., local time. From outside of the continental U.S., call us collect at 925.681.7600.     You may also write us at:     Bank of America FL1-300-02-07 P.O. Box 25118 Tampa, FL 33622-5118     For Remittance Transfers, please see the contact information in Section 6.F below.     A. Security Procedures     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 15/29By enrolling in the Service and accessing it using your User ID and password, and such other security and identification methods as we may require from time to time, such as security questions or one-time passcodes, you acknowledge and agree that this system includes security procedures for transfers initiated through this Service that are commercially reasonable. You agree to be bound by instructions, whether authorized or unauthorized, which we implement in compliance with these procedures, unless you have given us prior notice of possible unauthorized use of your password and we had a reasonable opportunity to act on such notice.     B. Types of ACH and Wire Transfers     You may send and receive the following types of ACH and Wire transfers:     Types of Transfers Sending Limits (per transaction)     Receiving Limits (per transaction)     Fees Cut-Off Times     (all eastern PM)     Three Business Day ACH (outbound)     Small Business $5000 N/A $1.00 8:00     Three Business Day ACH (inbound)     Consumer N/A $1,000 $0.00 8:00     Next Business Day ACH (outbound)     Consumer Small Business     $1000 $5000     N/A $0.00 $5.00     8:00 8:00     Next Business Day ACH (inbound)     Consumer N/A $1,000 $0.00 8:00     Same Business Day (domestic) Wire Transfer (outbound)     Consumer Small Business $1000     $5000 N/A $30.00     $30.00 5:00     International Wire Transfer (outbound)     Consumer $1000 N/A $45.00 for wire transfers sent in US Dollar No wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply     5:00     International Wire Transfer (outbound)     1, 2 3     3 4     5     6     6     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 16/29Small Business $5000 N/A $45.00 for wire transfers sent in US Dollar No wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply     5:00          / For domestic transfers, funds will be debited from your Bank of America account on the business day you direct us to initiate processing of the transfer, and typically will be credited to the receiving account on the same business day, next business day or third business day (small business only), depending on your choice.     / For Direct Payments Service, see the Business Services Addendum for details on fees and limits.     / The minimum transfer amount (per transaction) for any Same Business Day (Domestic) Wire transfer and International Wire Transfer is $10.00. Daily and monthly limits may also apply. You may be eligible for higher transaction limits if you add Secured Transfer to receive a one-time passcode on your mobile device or register a USB security key.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 15.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3AEMbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "9c3dcb5a-a3cd-4134-87bb-d5192bc40346",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:46.087321",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  },
+  {
+    "question": "What are the fees for international wire transfers?",
+    "question_id": 4,
+    "answer": "According to the search results, the fees for international wire transfers are:\n- For consumer accounts, there is a $45 fee for wire transfers sent in U.S. dollars. There is no wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply.\n- For small business accounts, there is a $45 fee for wire transfers sent in U.S. dollars. There is no wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply.",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 470,
+              "start": 0
+            },
+            "text": "According to the search results, the fees for international wire transfers are:\n- For consumer accounts, there is a $45 fee for wire transfers sent in U.S. dollars. There is no wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply.\n- For small business accounts, there is a $45 fee for wire transfers sent in U.S. dollars. There is no wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "Liability for Unauthorized Transfers     For information regarding your liability for unauthorized transactions, see Section 8 of this Agreement.     6. ACH and Wire Transfers     Transfers sent outside of the United States that are initiated by consumers primarily for personal, family or household purposes (\"Remittance Transfers\"), are governed by federal law (see section 6.F below). This Agreement governs not only Remittance Transfers, but also certain other transfers between your linked accounts at Bank of America and your accounts at other financial institutions, or to someone else\u2019s account, using an account number and financial institution identifier.     For transfers other than Remittance Transfers, including general questions, requests for cancellation of payments and transfers, or to report unauthorized transactions, please call us at 800.432.1000 or 866.758.5972 for small business accounts, available Monday through Friday from 7:00 a.m. to 10:00 p.m., and Saturday and Sunday from 8:00 a.m. to 5:00 p.m., local time. From outside of the continental U.S., call us collect at 925.681.7600.     You may also write us at:     Bank of America FL1-300-02-07 P.O. Box 25118 Tampa, FL 33622-5118     For Remittance Transfers, please see the contact information in Section 6.F below.     A. Security Procedures     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 15/29By enrolling in the Service and accessing it using your User ID and password, and such other security and identification methods as we may require from time to time, such as security questions or one-time passcodes, you acknowledge and agree that this system includes security procedures for transfers initiated through this Service that are commercially reasonable. You agree to be bound by instructions, whether authorized or unauthorized, which we implement in compliance with these procedures, unless you have given us prior notice of possible unauthorized use of your password and we had a reasonable opportunity to act on such notice.     B. Types of ACH and Wire Transfers     You may send and receive the following types of ACH and Wire transfers:     Types of Transfers Sending Limits (per transaction)     Receiving Limits (per transaction)     Fees Cut-Off Times     (all eastern PM)     Three Business Day ACH (outbound)     Small Business $5000 N/A $1.00 8:00     Three Business Day ACH (inbound)     Consumer N/A $1,000 $0.00 8:00     Next Business Day ACH (outbound)     Consumer Small Business     $1000 $5000     N/A $0.00 $5.00     8:00 8:00     Next Business Day ACH (inbound)     Consumer N/A $1,000 $0.00 8:00     Same Business Day (domestic) Wire Transfer (outbound)     Consumer Small Business $1000     $5000 N/A $30.00     $30.00 5:00     International Wire Transfer (outbound)     Consumer $1000 N/A $45.00 for wire transfers sent in US Dollar No wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply     5:00     International Wire Transfer (outbound)     1, 2 3     3 4     5     6     6     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 16/29Small Business $5000 N/A $45.00 for wire transfers sent in US Dollar No wire transfer fee for wire transfers sent in foreign currency, but exchange rate markups apply     5:00          / For domestic transfers, funds will be debited from your Bank of America account on the business day you direct us to initiate processing of the transfer, and typically will be credited to the receiving account on the same business day, next business day or third business day (small business only), depending on your choice.     / For Direct Payments Service, see the Business Services Addendum for details on fees and limits.     / The minimum transfer amount (per transaction) for any Same Business Day (Domestic) Wire transfer and International Wire Transfer is $10.00. Daily and monthly limits may also apply. You may be eligible for higher transaction limits if you add Secured Transfer to receive a one-time passcode on your mobile device or register a USB security key.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 15.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3AEMbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "1b989202-c4d0-40de-90ed-cd38d309bb24",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:47.932059",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  },
+  {
+    "question": "How do I enroll in online banking?",
+    "question_id": 5,
+    "answer": "To enroll in Bank of America's online banking, you need to:\n1. Apply for or have an eligible Bank of America account.\n2. Accept the Online Banking Service Agreement, which covers the terms and conditions for using the online banking services.\n3. Set up your Online/Mobile ID to link all of your eligible Bank of America and affiliate accounts to the online banking service.",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 372,
+              "start": 0
+            },
+            "text": "To enroll in Bank of America's online banking, you need to:\n1. Apply for or have an eligible Bank of America account.\n2. Accept the Online Banking Service Agreement, which covers the terms and conditions for using the online banking services.\n3. Set up your Online/Mobile ID to link all of your eligible Bank of America and affiliate accounts to the online banking service."
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "We will try to notify you in advance, but we are not obliged to do so.     F. Disclosure of Account Information     We may disclose information about your accounts to consumer reporting agencies and to other persons or agencies who, in our judgment, have a legitimate purpose for obtaining information, as more fully described in the account agreement for the applicable account.     By enrolling in online and mobile banking, you will be automatically enrolled in the Bank\u2019s merchant rewards program, BankAmeriDeals, whereby the Bank will share anonymized transaction information with vendors in order to facilitate your participation in the rewards program and present offers that may be of interest to you. By participating in BankAmeriDeals, the Bank will also share anonymized transaction information with participating merchants, third parties and card networks to administer your benefits and rewards. As always, we will only use personally identifiable information if needed and in accordance with our Online Privacy Notice and U.S. Consumer Privacy Notice.     By using the Services, you authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Bank of America or its service provider for the duration of your business relationship, solely to help identify you or your wireless device and to prevent fraud. See our Online Privacy Notice and U.S. Consumer Privacy Notice to see how we treat your data.     Erica Bank of America\u2019s Virtual Financial Assistant     Description of Erica. Erica is a non-human, bot feature of Digital Banking and may help you engage with certain functionalities in a voice or text-assisted manner. For instance, you may be able to obtain account balances, initiate transfers, and pay bills. In the future, we may add new functionalities. You may enable or disable certain Erica functions at any time in the \"Profile & Settings\" section.     When you ask a question, Erica uses Artificial Intelligence (\u201cAI\u201d) to analyze your words to understand your intent. Erica will select the most appropriate response from a pre-defined set of answers. This process involves leveraging natural language processing to interpret and respond     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 27/29           https://www.bankofamerica.com/security-center/online-privacy-notice/         https://www.bankofamerica.com/security-center/consumer-privacy-notice/to customers\u2019 queries effectively. Erica does not use generative AI or large language models, which means responses are not based on vast datasets of external information. Erica doesn\u2019t automatically generate new responses based on interactions she has with customers.     Eligibility Requirements. You must be enrolled in Online Banking and use the Mobile Banking app to access Erica. Some or all of Erica's capabilities may not be available for certain accounts or customers, or may not be available if your accounts are in a status that are not available in Mobile Banking.     Privacy and Security. Any personal information that we collect through Erica will be governed by our U.S. Consumer Privacy Notice and our Online Privacy Notice. For example, we may use Erica recordings and interactions to improve the service, or use data to provide a more personalized experience, as described in Section D. To use Erica, you acknowledge that you will have to either speak aloud or write messages to Erica and you will receive audio and text responses. To initiate an interaction with Erica, you may have to tap an icon on the screen after logging into the Mobile Banking app. Once you initiate an interaction with Erica, we will record and transcribe these interactions. You may want to consider the times and places you use Erica. You should not share confidential or sensitive information, like your social security number or PIN, with Erica. To confirm the accuracy of your interactions with Erica, you can always retrieve your account details through Online Banking or the Mobile Banking app.     Once activated, Erica may respond to voices that are not yours. You acknowledge that once you invoke the microphone in a session, Erica may capture, record, and transcribe other voices in addition to yours, and may continue recording for a period of time (up to 15 seconds) after Erica hears any statement to which a response can be made, unless you close Erica or sign out of the Mobile Banking app. We will treat all voice interactions and transactions as though you authorized them, and as though they are authorized interactions and transactions, even if another voice or person initiated or completed them.     Bank of America uses a third-party service provider to provide voice responses, which keeps a record of your conversations for quality assurance, to maintain and transcribe an accurate account of your interactions with Erica, to identify opportunities to make Erica\u2019s responses more helpful and ensure her responses are optimal. Your voice interactions are saved for 90 days so they can be analyzed to help refine Erica\u2019s listening skills.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 27.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3AHsbDIJkB5gfhGznteQ6B",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          },
+          {
+            "content": {
+              "text": "Limitation of Liability     C. Indemnification     11. Other Terms and Conditions     Introduction     A. Service Charges     B. Service Hours     C. Business Days     D. Changes to Agreement     E. Cancellation     F. Disclosure of Account Information     G. Consent to Provide Electronic Communications     1. General Description of Bank of America Online Banking Service Agreement (this \"Agreement\")     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 2/29           javascript:void(0);         javascript:void(0);         javascript:void(0);         javascript:void(0);         javascript:void(0);         javascript:void(0);A. What This Agreement Covers     This Agreement is between each owner of an eligible account, a person applying for an eligible account, or authorized representative appointed or entitled to online access on another person\u2019s behalf (\u201cyou\u201d or \u201cyour\u201d) and Bank of America, N.A. (Bank of America). This Agreement governs your use of any online or mobile banking services maintained by Bank of America and accessible through bankofamerica.com using a personal computer or a mobile device, including a smartphone, tablet, or any other eligible handheld or wearable communication device (the \u201cService(s)\u201d).     Under the terms of this Agreement, you may use the Services to obtain financial products and services, access and view account information, and, for certain accounts, move money electronically and perform authorized transactions, for eligible U.S.-based Bank of America consumer and small business accounts and affiliate accounts linked to the Service, such as those at Merrill Lynch, Pierce, Fenner & Smith Incorporated (\"Merrill\").     When used in the Agreement, the term \u201csmall business\u201d includes sole proprietors, non-consumer business entities, and individual owners of the business, unless the context indicates otherwise. If you are a small business customer, additional or different terms and conditions applicable to the Services, as well as additional Services available exclusively to small business customers, are included in the Business Services Addendum, which is a part of this Agreement.     When you first set up your Online/Mobile ID, we will link all of your eligible Bank of America and affiliate accounts, including joint accounts. If you open an additional eligible account at a later date, we will link your new account to the Service, unless you tell us not to do so. Unless indicated otherwise by the context, \"linked Bank of America accounts\" or \"linked accounts\" refers to all of your accounts with Bank of America and its affiliates that are linked to the Service.     When your Service is linked to one or more joint accounts, we may act on the verbal, written or electronic instructions of any authorized signer.     Please note that some of the Services, or certain features or benefits of the Services, may not be available at all times or when using certain digital devices or applications. For example, some functions may be available online through a personal computer, but not available through our mobile app or if you do not have the most current version of our mobile app. It is your responsibility to maintain the most current version of our mobile app on the mobile device you use to access the Services. For example, if we add features or benefits to the Service, you may be unable to access them if you do not have the most current version of the mobile app.     B. Accepting the Agreement     When you apply for, enroll in, activate, download or use any of the Services described in this Agreement or authorize others to do so on your behalf, you are contracting for all Services described in the Agreement and agree to be bound by the terms and conditions of the entire Agreement, as well as any terms and instructions that appear on a screen when enrolling in, activating or accessing the Services.     C. Relation to Other Agreements Your use of the Services may also be affected by your Deposit Agreement and Disclosures, including the applicable schedule of fees (\u201cDeposit Agreement\u201d), or other agreement with us for your linked Bank of America accounts and/or an agreement with our affiliates for your affiliate accounts linked to the Service, including your investment accounts at Merrill. When an account is linked to the Services, it does not change the agreements you already have with us or our affiliates for that account and you are still subject to the terms and conditions we gave you in the agreement and disclosure for the linked account. The terms and conditions for those account agreements, including any applicable fees, transaction limitations, liability rules and other restrictions that might impact your use of an account with the Services, are incorporated into this Agreement. In the event of a conflict between the terms of those account agreements and this Agreement, the terms of the applicable account agreement will prevail unless this Agreement specifically states otherwise.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 2.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3AAMbDIJkB5gfhGznteQ6A",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "660d53a5-5f11-4438-add1-fba1aa7943cd",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:50.384192",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  },
+  {
+    "question": "What are the security requirements for online banking?",
+    "question_id": 6,
+    "answer": "According to the search results, the key security requirements for online banking include:\n- Keeping your password secure and confidential, and not sharing it with unauthorized persons (source 5)\n- Notifying the bank immediately if you believe your password has been compromised or there has been unauthorized activity on your account (source 5)\n- Acknowledging that the bank's security procedures are commercially reasonable, and agreeing to be bound by instructions implemented in compliance with those procedures (source 5)",
+    "citations": [
+      {
+        "generatedResponsePart": {
+          "textResponsePart": {
+            "span": {
+              "end": 525,
+              "start": 0
+            },
+            "text": "According to the search results, the key security requirements for online banking include:\n- Keeping your password secure and confidential, and not sharing it with unauthorized persons (source 5)\n- Notifying the bank immediately if you believe your password has been compromised or there has been unauthorized activity on your account (source 5)\n- Acknowledging that the bank's security procedures are commercially reasonable, and agreeing to be bound by instructions implemented in compliance with those procedures (source 5)"
+          }
+        },
+        "retrievedReferences": [
+          {
+            "content": {
+              "text": "Note: These liability rules are established by Regulation E, which implements the federal Electronic Fund Transfer Act and does not apply to business accounts. All terms in this Section not defined in this Agreement but defined in Regulation E will have the meaning given in Regulation E. Our liability policy regarding unauthorized transactions on consumer deposit accounts may give you more protection, provided you report the transactions promptly. Also, the state law applicable to your account may give you more time to report an unauthorized transaction or may give you more protection than Regulation E.     C. Our Liability for Failure to Complete Transactions     If we do not complete a transaction to or from your account on time, or in the correct amount according to our agreement with you, we will be liable for your losses or damages. However, there are some exceptions. For instance, we will not be liable where:     Through no fault of ours, you don't have enough available funds in your account (or available funds under your Balance Connect\u2122 overdraft protection service), or credit to cover the transaction or transfer     The Services weren't working properly, and you knew about the malfunction when you started the transaction or transfer     Circumstances beyond our control (such as fire or flood) prevented the transaction or transfer, despite reasonable precautions we've taken     There are postal delays or processing delays by the Payee     Other exceptions not specifically mentioned apply.     D. Our Liability for ACH and Wire Transfers     For the provisions governing our liability for Same-Business Day Outbound wire transfers and international transfers please see Section 6. Our liability for Three-Business Day ACH transfers and Next Business Day ACH transfers involving a transfer to or from a Bank of America consumer account is as described in Section 8.     9. Additional Provisions Only Applicable to Small Business Accounts     A. Protecting Passwords     If you think your password may have been compromised, or you believe there has been unauthorized or erroneous online activity with respect to your account, contact us at 866.758.5972. If you are calling from outside of the continental U.S., call us collect at 925.681.7600.     You agree that we may send notices and other communications, including password confirmations, to the current address shown in our records, whether or not that address includes a designation for delivery to the attention of any particular individual. You further agree that Bank of America will not be responsible or liable to you in any way if information is intercepted by an unauthorized person, either in transit or at your place of     9/4/25, 8:23 PM Bank of America | Online Banking | Service Agreement     https://www.bankofamerica.com/online-banking/service-agreement.go?request_locale=en-us 24/29business. You agree to: 1) keep your password secure and strictly confidential, providing it only to authorized signers on your account(s); 2) instruct each person to whom you give your password that he or she is not to disclose it to any unauthorized person; and 3) immediately notify us and select a new password if you believe your password may have become known to an unauthorized person. Bank of America will have no liability to you for any unauthorized payment or transfer made using your password that occurs before you have notified us of possible unauthorized use and we have had a reasonable opportunity to act on that notice. We may suspend or cancel your password even without receiving such notice from you, if we suspect your password is being used in an unauthorized or fraudulent manner. For businesses who use the additional services described in the Business Services Addendum, this section applies to all passwords, including those assigned to users or Administrators. You are responsible for all transactions performed by you and any designated user(s), including Administrator(s), whether you specifically authorize the transactions or not. If you notify us that the person is no longer authorized, then only transactions that person performs after the time you notify us are considered unauthorized     B. Acknowledgment of Commercially Reasonable Security Procedures     By using the Services, you acknowledge and agree that this Agreement sets forth security procedures for electronic banking transactions that are commercially reasonable. You agree to be bound by instructions, whether authorized or unauthorized, which we implement in compliance with these procedures, unless you have given us prior notice of possible unauthorized use as described above (and we had a reasonable opportunity to act on such notice).     C. Limitation of Bank's Liability     If we fail or delay in making a payment or transfer pursuant to your instructions, or if we make a payment or transfer in an erroneous amount that is less than the amount per your instructions, unless otherwise required by law, our liability shall be limited to interest on the amount that we failed to timely pay or transfer, calculated from the date on which the payment or transfer was to be made until the date it was actually made or you canceled the instructions.",
+              "type": "TEXT"
+            },
+            "location": {
+              "s3Location": {
+                "uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf"
+              },
+              "type": "S3"
+            },
+            "metadata": {
+              "x-amz-bedrock-kb-source-uri": "s3://bank-ai-documents-mj301296/Bank_of_America_Online Banking_Service Agreement.pdf",
+              "x-amz-bedrock-kb-document-page-number": 24.0,
+              "x-amz-bedrock-kb-chunk-id": "1%3A0%3AGsbDIJkB5gfhGznteQ6B",
+              "x-amz-bedrock-kb-data-source-id": "PA6CIP4T97"
+            }
+          }
+        ]
+      }
+    ],
+    "session_id": "f56cbde2-3d3e-46a5-af81-d2d71e8f74fb",
+    "status": "success",
+    "timestamp": "2025-09-07T02:43:52.436052",
+    "metadata": {
+      "knowledge_base_id": "NU5B3RRIOU",
+      "region": "us-east-1",
+      "max_tokens": 500,
+      "temperature": 0.1,
+      "top_k": 5
+    }
+  }
+]
